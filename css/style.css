@@ -1,10 +1,27 @@
-p {
-    font-size: 25px;
-    color: red;
-    justify-content: right;
-    text-align: justify;
+body {
+    font-family: Arial, sans-serif; /* aqui eu defino a fonte de letra do projeto */
+}
 
+.logo {
+    text-align: center;
+    margin-top: 20px;
 }
-body{
-    background-color:blue;
+
+.logo img {
+    max-width: 200px;
 }
+
+.container {
+    margin-top: 30px;
+}
+
+/* Estilização do formulário */
+.form-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
