@@ -9,10 +9,14 @@ body {
 
 .logo img {
     max-width: 200px;
+    border-radius: 50%;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
 }
+
 
 .container {
     margin-top: 30px;
+    padding: 15px;
 }
 
 /* Estilização do formulário */
