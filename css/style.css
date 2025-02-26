@@ -1,5 +1,14 @@
 body {
     font-family: Arial, sans-serif; /* aqui eu defino a fonte de letra do projeto */
+    
+}
+.texto-bio {
+    font-size: 38px;
+}
+
+.logo1 img {
+    max-width: 200px;
+    height: 100px;
 }
 
 .logo {
@@ -8,9 +17,8 @@ body {
 }
 
 .logo img {
-    max-width: 200px;
-    border-radius: 50%;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    max-width: 400px;
+    height: 300px;
 }
 
 
