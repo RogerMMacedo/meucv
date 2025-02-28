@@ -11,6 +11,12 @@ body {
     height: 100px;
 }
 
+.logo2 img {
+    max-width: 120px;
+    height: 200px;
+}
+
+
 .logo {
     text-align: center;
     margin-top: 20px;
